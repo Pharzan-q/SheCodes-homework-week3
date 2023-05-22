@@ -5,7 +5,7 @@
 }
 
 body {
-  margin: 60px auto;
+  margin: 20px auto;
   margin-top: 100px;
 }
 
@@ -125,7 +125,7 @@ p {
     font-size: 17px;
   }
   h1 {
-    font-size: 60px;
+    font-size: 64px;
     padding-left: 5px;
     padding-right: 5px;
   }
