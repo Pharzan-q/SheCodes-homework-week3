@@ -111,12 +111,15 @@ p {
   text-decoration: none;
   text-transform: capitalize;
 }
-@media (max-width: 576px) {
+@media (max-width: 768px) {
   .launch-link {
     display: block;
     text-align: center;
     font-size: 18px;
+    margin: 0 10px;
   }
+}
+@media (max-width: 576px) {
   h2 {
     font-size: 38px;
   }
